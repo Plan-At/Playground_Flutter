@@ -39,6 +39,15 @@
     Then check if its successful
 
         cat .git/config
+10. Type and ht Enter
+
+        ls
+11. Change Disk the the ? directory
+
+        cd <?_directory>
+    For example 
+
+        cd Playground_Flutter
 
 ## After the environemnt is ready
 1. Type and ht Enter
