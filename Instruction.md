@@ -21,7 +21,7 @@
         cd ..
 6. Copy&Paste in and hit enter
 
-        git clone https://github.com/flutter/flutter.git -b stable
+       git clone https://github.com/flutter/flutter.git -b stable
 7. Copy&Paste and hit enter
 
         export PATH="$PATH:`pwd`/flutter/bin"
