@@ -2,7 +2,7 @@
 
 ## Initial Setup
 1. Fork the repo (important!)
-2. Goto [GItPod](https://gitpod.io/)
+2. Goto [GitPod](https://gitpod.io/)
 3. Sign-in/up with your GitHub Account
 4. Click on "New Workspace"
 5. Select the repo you just created
