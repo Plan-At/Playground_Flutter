@@ -29,6 +29,16 @@
 
         flutter doctor
     If still saying command not found, contact the tech support near you
+9. Goto
+
+        https://github.com/settings/emails
+    If you **have Keep my email addresses private** and or **Block command line pushes that expose my email** enabled, you need set your email and username in the remote environment
+
+        git config user.name "FIRST_NAME LAST_NAME"
+        git config user.email "MY_NAME@example.com"
+    Then check if its successful
+
+        cat .git/config
 
 ## After the environemnt is ready
 1. Type and ht Enter
